@@ -1,0 +1,21 @@
+[1220/141038.091:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1220/141038.623:ERROR:exception_snapshot_win.cc(99)] thread ID 6460 not found in process
+[1220/141041.585:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1220/141041.585:ERROR:exception_snapshot_win.cc(99)] thread ID 2572 not found in process
+[1220/141042.731:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1220/141042.731:ERROR:exception_snapshot_win.cc(99)] thread ID 8320 not found in process
+[1220/141045.036:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1220/141045.036:ERROR:exception_snapshot_win.cc(99)] thread ID 9304 not found in process
+[1220/141048.119:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1220/141048.119:ERROR:exception_snapshot_win.cc(99)] thread ID 10208 not found in process
+[1220/141055.463:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1220/141055.463:ERROR:exception_snapshot_win.cc(99)] thread ID 3996 not found in process
+[1220/141938.598:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/142309.141:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/144618.205:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/145102.582:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1220/151749.708:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1221/154535.495:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1221/164350.803:ERROR:file_io_win.cc(180)] CreateFile C:\Users\SONY~1.DES\AppData\Local\Temp\scoped_dir3608_447179355\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[1226/175241.018:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1226/175318.711:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

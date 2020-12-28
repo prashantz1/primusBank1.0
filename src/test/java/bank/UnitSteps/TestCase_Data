@@ -1,0 +1,21 @@
+----------Website:-Primus Bank----------
+
+URL---->http://primusbank.qedgetech.com/
+
+Exe File Location--->D:\\Prashant\\Automation support\\chromedriver.exe
+
+Username---> Admin                               //*[@id='txtuId']
+
+Password---> Admin                              //*[@id='txtPword']
+
+Click on Login Button--->                       //*[@id='login']
+
+Click on Branches Button--->                    //*[@src='images/Branches_but.jpg']
+
+Click on Country Dropdown--->                   //*[@name='lst_countryS']
+
+Click on State Dropdown--->                     //*[@name='lst_stateS']
+
+Click on City Dropdown--->                     //*[@name='lst_cityS']
+
+Click on Search Button--->                     //*[@name='btn_search']
